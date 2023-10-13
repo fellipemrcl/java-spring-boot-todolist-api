@@ -1,0 +1,10 @@
+br/com/fellipemarcel/todolist/utils/Utils.class
+br/com/fellipemarcel/todolist/errors/ExceptionHandlerController.class
+br/com/fellipemarcel/todolist/user/UserController.class
+br/com/fellipemarcel/todolist/user/IUserRepository.class
+br/com/fellipemarcel/todolist/task/TaskModel.class
+br/com/fellipemarcel/todolist/task/TaskController.class
+br/com/fellipemarcel/todolist/task/ITaskRepository.class
+br/com/fellipemarcel/todolist/TodolistApplication.class
+br/com/fellipemarcel/todolist/user/UserModel.class
+br/com/fellipemarcel/todolist/filter/FilterTaskAuth.class
